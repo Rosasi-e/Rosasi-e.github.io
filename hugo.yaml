@@ -1,4 +1,4 @@
-baseURL: https://hugo-toha.github.io
+baseURL: https://Rosasi-e.github.io
 
 languageCode: bn
 title: "John's Blog"
@@ -68,7 +68,7 @@ params:
     favicon: /images/site/favicon.png
 
   # GitHub repo of your site
-  gitRepo: https://github.com/hugo-toha/hugo-toha.github.io
+  gitRepo: https://github.com/Rosasi-e/Roasi-e.github.io
   # Default branch of your Git repo
   gitBranch: main
 
@@ -254,11 +254,11 @@ params:
         plyr:
           # options doc: https://github.com/sampotts/plyr#options
           # fullscreen: true
-    
+
         # Enable reading time support in post cards and in post pages
     readingTime:
       enable: false
-    
+
     # Number of posts to show to each page. Default is "12"
     pagination:
        maxPostsPerPage: 12
